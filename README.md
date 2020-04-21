@@ -26,5 +26,7 @@ Step.3 Publish Master branch
 > BIG Task My Website PC to RWD
 
 <details><summary>點我展開提示</summary>
-[IMAGE](https://www.likejapan.com/wp-content/uploads/2019/03/D1n210NU4AEZUsv.jpg-large-1024x576.jpg)
+
+![IMAGE](https://www.likejapan.com/wp-content/uploads/2019/03/D1n210NU4AEZUsv.jpg-large-1024x576.jpg)
+
 </details>

@@ -21,6 +21,10 @@ Step.3 Publish Master branch
 1. Amos-CssCoke Viedo Triathlon Experience
 2. 研究[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)並使用
 
-[IMAGE](https://www.likejapan.com/wp-content/uploads/2019/03/D1n210NU4AEZUsv.jpg-large-1024x576.jpg)
+
 
 > BIG Task My Website PC to RWD
+
+<details><summary>點我展開提示</summary>
+[IMAGE](https://www.likejapan.com/wp-content/uploads/2019/03/D1n210NU4AEZUsv.jpg-large-1024x576.jpg)
+</details>

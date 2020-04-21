@@ -60,6 +60,4 @@ AAA信息技术有限公司
 
 Github: [https://github.com/username](https://github.com/username)
 
-# 評語
-
-唉呦, 很會喔, 不過為啥你要打簡體字
+劉育誠 : 唉呦, 很會喔, 不過為啥你要打簡體字

@@ -8,9 +8,11 @@ github Clone with URL
 
 Code Rule
 
+```JavaScript
 Step.1 Pull Master branch
 Step.2 Commits
 Step.3 Publish Master branch
+```
 
 ## Task
 

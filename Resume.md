@@ -1,8 +1,8 @@
 # 劉育愷
 ## 高级Android工程师
 
-> 新北市新莊，男，1998年  
-> [s1064007@g.ncyu.edu.tw](s1064007@g.ncyu.edu.tw)  
+> 新北市新莊，男，1998年
+> [s1064007@g.ncyu.edu.tw](s1064007@g.ncyu.edu.tw)
 > (+886) 0975273847
 
 ------
@@ -53,10 +53,13 @@ AAA信息技术有限公司
 
 ### 最高學歷 {#degree}
 國立嘉義大學應用外語系
-  
+
 ------
 
 ### Footer {#footer}
 
-Github: [https://github.com/username](https://github.com/username)  
+Github: [https://github.com/username](https://github.com/username)
 
+# 評語
+
+唉呦, 很會喔

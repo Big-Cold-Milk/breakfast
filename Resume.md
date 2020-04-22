@@ -1,19 +1,20 @@
 # 劉育愷
-## Internship
+  ![avatar](https://lh3.googleusercontent.com/wkfVwyvxxcKZUi7M8gY2MrulkiRicKd6XWt3tGUpUOZm80mI1QcQN0Bs7rHQM9CXYMWtG8H_hhsPGOgJfJb3h0Po18D8U-vmZlmEgIEsv1iOh8Jif0qMU7D-14TB0AeYy22xgrnnHgMN4t-2jYRtc6WDrEp8W5deBlPJwQobA8sWvRTqvtksRYuqFs0WEE6hsuVVdn5QbCauXQOiVW_5htkLhI4RP_DIfwtlJGIgd8YUakNx7AJFu7fvOHYt-0OhA7NhrxBrK2lrfysdWJLARO36nyQDinTzX_lZlFDKQqP9TRlXAiTBmN3XHGBNFY8UUtCtYUe1AGCrnCUtFmtiauRbnXuib9BoBmVBzXfZK4D6P-SqCXSViZpDCZifn9W1w0J6m0dWvUHDszAWIK3UXsAmMWJYJb3aUDWJBRmEBfYFuv2qlH1m5ZTDy2CVDhKG_h06F-Lpk9nRQdZ1NzVdPvdRnM-hAjSQgRscNdcxdE3LZg8Q58i0Mtucaus687IXrdief2vdAxhYcPwqGKhsf80QK0wWx454KPEwiPn9yiyr3O-abfb4lYbYAbl5CLAwf4tTnQVtaEZ_ISRJmVNA9qykAgJ3jx4SfgtT_G5qf4kvPn8vwabhngi4MW9l7ysLrYNSCUvQFnPq6yNv7RIQhzjBDyeJnqaBEvLakF6ES6vnoCgv96jzon6UM1CqLw=w292-h219-no)
+## &lt; Internship >
 
 > 新北市新莊，男，1998年
+>電子郵件:
 > [s1064007@g.ncyu.edu.tw](s1064007@g.ncyu.edu.tw)
-> (+886) 0975273847
+>聯絡電話: (+886) 0975273847
 
 ------
 
-### 简介 {#profile}
+### 簡介 {profile}
 
-扎实的Java基础，富有激情与创意。
 
 ------
 
-### 技能 {#skills}
+### 技能 {skills}
 
 * Android开发
   : 三年Android开发经验。
@@ -23,21 +24,7 @@
 
 -------
 
-### 技术 {#technical}
-
-1. Android
-1. Java
-1. C
-1. Node.js
-1. MongoDB
-1. Git
-1. Linux
-1. html5 CSS3
-1. JQuery
-
-------
-
-### 工作经验 {#experience}
+### 各種經驗 {experience}
 
 BBB信息技术有限公司
 : *Android高级工程师*
@@ -51,7 +38,7 @@ AAA信息技术有限公司
 
 ------
 
-### 最高學歷 {#degree}
+### 最高學歷 { degree }
 國立嘉義大學應用外語系
 
 ------

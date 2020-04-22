@@ -82,6 +82,3 @@
 2.  ✆聯絡電話: (+886) 0975273847
 3.  line ID: carl321123
 4.  FB:[劉育愷](https://www.facebook.com/L1uXO330B7)
-
-<details>
-<summary>專案照片</summary>

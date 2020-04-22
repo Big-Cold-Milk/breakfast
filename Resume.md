@@ -60,4 +60,4 @@ AAA信息技术有限公司
 
 Github: [https://github.com/username](https://github.com/username)
 
-劉育誠 : 唉呦, 很會喔, 不過為啥你要打簡體字
+劉育誠 : 唉呦, 很會喔, 不過為啥你要打簡體, 你可以不用名稱都 叫 readme 我叫 readme.md 是因為 github 專案會預設首頁吃 README.md 檔案 預顯示

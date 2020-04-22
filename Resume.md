@@ -1,13 +1,13 @@
- # 劉育愷 Yu-Kai,Liu
+# 劉育愷 Yu-Kai,Liu
  > ## 國立嘉義大學應用外語系大三
 
   ![IMAGE](https://lh3.googleusercontent.com/wkfVwyvxxcKZUi7M8gY2MrulkiRicKd6XWt3tGUpUOZm80mI1QcQN0Bs7rHQM9CXYMWtG8H_hhsPGOgJfJb3h0Po18D8U-vmZlmEgIEsv1iOh8Jif0qMU7D-14TB0AeYy22xgrnnHgMN4t-2jYRtc6WDrEp8W5deBlPJwQobA8sWvRTqvtksRYuqFs0WEE6hsuVVdn5QbCauXQOiVW_5htkLhI4RP_DIfwtlJGIgd8YUakNx7AJFu7fvOHYt-0OhA7NhrxBrK2lrfysdWJLARO36nyQDinTzX_lZlFDKQqP9TRlXAiTBmN3XHGBNFY8UUtCtYUe1AGCrnCUtFmtiauRbnXuib9BoBmVBzXfZK4D6P-SqCXSViZpDCZifn9W1w0J6m0dWvUHDszAWIK3UXsAmMWJYJb3aUDWJBRmEBfYFuv2qlH1m5ZTDy2CVDhKG_h06F-Lpk9nRQdZ1NzVdPvdRnM-hAjSQgRscNdcxdE3LZg8Q58i0Mtucaus687IXrdief2vdAxhYcPwqGKhsf80QK0wWx454KPEwiPn9yiyr3O-abfb4lYbYAbl5CLAwf4tTnQVtaEZ_ISRJmVNA9qykAgJ3jx4SfgtT_G5qf4kvPn8vwabhngi4MW9l7ysLrYNSCUvQFnPq6yNv7RIQhzjBDyeJnqaBEvLakF6ES6vnoCgv96jzon6UM1CqLw=w292-h219-no)
 > ## &lt; 希望應徵職位: Business Development Intern >
 >  關注在商業與科技的結合，也喜歡人與人之間的溝通。雖然主修是外語系，但我不排斥任何能夠學習的機會，並勇於接受挑戰，因此修了許多外系的課程，像是資工系的「計算機概論」，「程式設計(python爬蟲)」，行銷系的「網路行銷」，資管系的「軟體專案管理」等等的課程。最常被問的一個問題是:「你讀文學和語言在工作上有什麼幫助?」。在我看來，不管是自然語言或是程式語言兩者都是能幫助我在商業上成功的工具，而文學亦是同樣的道理。文學有點像是從古至今的「消費者行為」，每個人都是不同的個體，都都會隨著時間變化，文學能告訴我，人會為了什麼而改變，而我能怎樣改變才能更容易與人溝通，並且利用文學陶冶自身的性情，不讓挫折與失敗削減我的野心和企圖心。我秉持者生意本於人，和科技始終來自人性的中心思想，相信自己可以將社會，商業與科技串接在一起!
 
-### 聯絡方式☟:
-1. 電子郵件: [s1064007@g.ncyu.edu.tw](s1064007@g.ncyu.edu.tw)
-2. 聯絡電話: (+886) 0975273847
+### 聯絡方式:
+1. ✉電子郵件: [s1064007@g.ncyu.edu.tw](s1064007@g.ncyu.edu.tw)
+2. ✆聯絡電話: (+886) 0975273847
 3.  line ID: carl321123
 ------
 ### 學歷
@@ -15,49 +15,53 @@
 2. 實踐大學建築設計系(2016~2017)
 3. 國立嘉義大學應用外語系(2017~2021)
 ------
-### 經歷
+### 經歷與學習經驗
+
 
 <details>
-<summary> 1. 新莊高中|學生會副會長|2015 </summary>
+<summary> 1. 新莊高中|學生會副會長|2015 ☑危機處理x溝通整合☟ </summary>
 <pre>
-  在這個位置工作時，不只需要管理學生會的幹部團隊，
-  還要將學生方的意見向校方轉達，也就是要跨部門整合並合作，
-  並爭取合理的回饋。另外，還得需要處理預料外的危機，
-  像是活動成本超出預算時，需要選擇哪個項目需要刪減。
+   我在這個位置工作時，不只需要管理學生會的幹部團隊，
+還要將學生方(可以視為客戶)的意見向校方(可以視為供應廠商)轉達，
+也就是要跨部門整合並合作， 並爭取合理的回饋。
+另外，常常也需要處理預料外的危機，像是活動成本超支時，
+需要選擇哪個項目需要刪減。還有內部成員有爭執時，也需要介入去調解紛爭。
+</pre>
+</details>
+
+  <details>
+<summary> 2. 實踐大學建築設計系|大一|2016 ☑詢問議價x創意與預算平衡☟</summary>
+<pre>
+  我在這裡上學時，是我學會與商家議價的開始。在建築設計系中，常常需要做很多
+作品，需要到各個材料行購買材料，身為學生的我，每個專案的預算都並不多，
+所以除了我天馬行空的想法與設計，還要考量真正的可行性與價值性，
+也因此都要貨比三家，去不同的商家詢問報價，找到品質與價格相符的商品。
   </pre>
   </details>
+  <details>
+<summary> 3. 台北市立動物園|志工|2017 ☑隨機應變x觀察需求☟</summary>
+<pre>
+  我在動物園當志工時，我擔任的是遊園列車上的工作人員，
+要負責管控遊客動線，當遊客有任何困難時，都要提供立即的協助，
+但有些遊客會不好意思向工作人員提出需要幫的請求。
+因此，我都會觀察遊客們的行為，並在適時主動幫助。
+  </pre>
+</details>
+  <details>
+<summary> 4. 國立嘉義大學|大一→大三|2020 ☑隨機應變x觀察需求☟</summary>
+<pre>
+  我在動物園當志工時，我擔任的是遊園列車上的工作人員，
+要負責管控遊客動線，當遊客有任何困難時，都要提供立即的協助，
+但有些遊客會不好意思向工作人員提出需要幫的請求。
+因此，我都會觀察遊客們的行為，並在適時主動幫助。
+  </pre>
+</details>
 
-
-
-------
-
-### 技能 {skills}
-
-* Android开发
-  : 三年Android开发经验。
-
-* 服务器端开发
-  : 一年服务器端开发经验。
 
 -------
 
-### 各種經驗 {experience}
-
-BBB信息技术有限公司
-: *Android高级工程师*
-  __2012年至今__
-  工作详情说明
-
-AAA信息技术有限公司
-: *Android工程师*
-  __2010年至年2012年__
-  工作详情说明
-
-------
 
 
-
-------
 
 ### Footer {#footer}
 

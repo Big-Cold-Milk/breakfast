@@ -3,7 +3,7 @@
 
   ![IMAGE](https://lh3.googleusercontent.com/wkfVwyvxxcKZUi7M8gY2MrulkiRicKd6XWt3tGUpUOZm80mI1QcQN0Bs7rHQM9CXYMWtG8H_hhsPGOgJfJb3h0Po18D8U-vmZlmEgIEsv1iOh8Jif0qMU7D-14TB0AeYy22xgrnnHgMN4t-2jYRtc6WDrEp8W5deBlPJwQobA8sWvRTqvtksRYuqFs0WEE6hsuVVdn5QbCauXQOiVW_5htkLhI4RP_DIfwtlJGIgd8YUakNx7AJFu7fvOHYt-0OhA7NhrxBrK2lrfysdWJLARO36nyQDinTzX_lZlFDKQqP9TRlXAiTBmN3XHGBNFY8UUtCtYUe1AGCrnCUtFmtiauRbnXuib9BoBmVBzXfZK4D6P-SqCXSViZpDCZifn9W1w0J6m0dWvUHDszAWIK3UXsAmMWJYJb3aUDWJBRmEBfYFuv2qlH1m5ZTDy2CVDhKG_h06F-Lpk9nRQdZ1NzVdPvdRnM-hAjSQgRscNdcxdE3LZg8Q58i0Mtucaus687IXrdief2vdAxhYcPwqGKhsf80QK0wWx454KPEwiPn9yiyr3O-abfb4lYbYAbl5CLAwf4tTnQVtaEZ_ISRJmVNA9qykAgJ3jx4SfgtT_G5qf4kvPn8vwabhngi4MW9l7ysLrYNSCUvQFnPq6yNv7RIQhzjBDyeJnqaBEvLakF6ES6vnoCgv96jzon6UM1CqLw=w292-h219-no)
 > ## &lt; 希望應徵職位: Business Development Intern >
->  關注在商業與科技的結合，也喜歡人與人之間的溝通。雖然主修是外語系，但我不排斥任何能夠學習的機會，並勇於接受挑戰，因此修了許多外系的課程，像是資工系的「計算機概論」，「程式設計(python爬蟲)」，行銷系的「網路行銷」，資管系的「軟體專案管理」等等的課程。最常被問的一個問題是:「你讀文學和語言在工作上有什麼幫助?」。在我看來，不管是自然語言或是程式語言兩者都是能幫助我在商業上成功的工具，而文學亦是同樣的道理。文學有點像是從古至今的「消費者行為」，每個人都是不同的個體，都都會隨著時間變化，文學能告訴我，人會為了什麼而改變，而我能怎樣改變才能更容易與人溝通，並且利用文學陶冶自身的性情，不讓挫折與失敗削減我的野心和企圖心。我秉持者生意本於人，和科技始終來自人性的中心思想，相信自己可以將社會，商業與科技串接在一起!
+>  關注在商業與科技的結合，也喜歡人與人之間的交流。雖然主修是外語系，但我不排斥任何能夠學習的機會，並勇於接受挑戰，因此修了許多外系的課程，像是資工系的「計算機概論」，「程式設計(python爬蟲)」，行銷系的「網路行銷」，資管系的「軟體專案管理」等等的課程。最常被問的一個問題是:「你讀文學和語言在工作上有什麼幫助?」。在我看來，不管是自然語言或是程式語言兩者都是能幫助我在商業上成功的工具，而文學亦是同樣的道理。文學有點像是從古至今的「消費者行為」，每個人都是不同的個體，都都會隨著時間變化，文學能告訴我，人會為了什麼而改變，而我能怎樣改變才能更容易與人溝通，並且利用文學陶冶自身的性情，不讓挫折與失敗削減我的野心和企圖心。我秉持者生意本於人，和科技始終來自人性的中心思想，相信自己可以將社會，商業與科技串接在一起!
 
 ### 聯絡方式:
 1. ✉電子郵件: [s1064007@g.ncyu.edu.tw](s1064007@g.ncyu.edu.tw)
@@ -48,13 +48,29 @@
   </pre>
 </details>
   <details>
-<summary style="color:blue;"> 4. 國立嘉義大學|大一→大三|2020 ☑社會x科技新知x商業敏銳度☟</summary>
+<summary style="color:blue;"> 4. 國立嘉義大學|大二→大三|2018~2020 ☑科技新知x商業敏銳度x企圖心☟</summary>
 <pre>
-  我在動物園當志工時，我擔任的是遊園列車上的工作人員，
-要負責管控遊客動線，當遊客有任何困難時，都要提供立即的協助，
-但有些遊客會不好意思向工作人員提出需要幫的請求。
-因此，我都會觀察遊客們的行為，並在適時主動幫助。
-  </pre>
+  在嘉義讀書的時候，管理學院,理工學院及人文學院的距離大概都有15公里，
+我只要一下課就要趕去另外一個校區上課，我認為這能證明我想獲得新知的企圖心，
+在管理學院，我修了網路行銷,消費者行為及軟體專案管理等課程，
+這些課程讓我開始了解科技新創公司的商業模式，而在理工學院，
+我修了計算機概論,程式設計及線性代數等課程， 這些課程讓我對網站前後端技術有了一點初步的認識。
+我很感謝自己願意不畏困難去跨領域的學習，這讓我漸漸打開對這個世界的自學之門，
+來補足我與本科系學生之間的知識落差，使我發現，
+學校並不是唯一能獲取知識的地方，也讓我養成有問題就發問的習慣，
+</pre>
+</details>
+  <details>
+<summary style="color:blue;"> 5. 資策會產業分析研究所|產業分析營|2020 ☑口語表達能力x產業分析技能☟</summary>
+<pre>
+  這場辦在台大的研究營，我真的覺得收穫很多，讓我知道各種產業分析模型的使用方法，
+  像是SWOT分析, 五力分析,Mece分析等等的使用時機，
+  還有知道目前現在各個產業的概況，該怎麼在這些產業開發自己的商品，
+  並佔有一席之地。除此之外，小組討論及上台報告，
+  都讓我在口語表達上學到不少，
+  像是如何讓組員及聽眾完整地表達出自己的想法，
+  和傾聽組員及指導老師的建議，並給予相同的反饋。
+</pre>
 </details>
 
 

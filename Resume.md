@@ -13,7 +13,7 @@
 ------
 ### 經歷與學習經驗
 
-
+>(點選下表以查看更多資訊)
 <details>
 <summary style="color:blue;"> 1. 新莊高中|學生會副會長|2015 ☑危機處理x溝通整合☟ </summary>
 <pre>

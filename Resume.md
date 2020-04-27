@@ -21,7 +21,7 @@
 需要選擇哪個項目需要刪減。還有內部成員有爭執時，也需要介入去調解紛爭。
 </pre>
 </details>
-
+ya
   <details>
 <summary style="color:blue;"> 2. 實踐大學建築設計系|大一|2016 ☑詢問議價x創意與預算平衡☟</summary>
 <pre>

@@ -1,7 +1,7 @@
-<style>
+<!-- <style>
 .red{ color:red;font-weight:bold; }
 .blue{ color:blue;font-weight:bold; }
-</style>
+</style> -->
 
 # 20200427
 

@@ -807,3 +807,59 @@ XX公司 行銷實習
 ### 104
 
 ### Cakeresume
+
+<details>
+<summary>英文履歷出現這些字，會被公司直接丟進垃圾</summary>
+
+在履歷中出現哪些字，會殺了你的面試機會？
+不可思議吧，是successful、accomplished、skillful這些看似非要出現在履歷上的字，讓你失去面試的機會。這些「履歷表關鍵錯字」，不是文法錯或意思不對，是太不精采，千篇一律。
+把履歷寫精采了，還要給新鮮人一個提醒，不只要寫好履歷，還要成為履歷表上你描述的那一種人：top performer、Peak Performer 、performance driven、resourceful & forward thinking！
+
+1、描述自己的成功
+
+（模糊） Successful（成功）
+
+（明確） Best In Class（班上成績最佳）、Top-Performer　（第一名）
+
+　 Successful是最常在履歷表上被濫用的字。想讓人知道我們表現是否有過人之處，要用一些有實質意義、有重量、有視覺意象的字。
+
+2、形容自己的工作表現
+
+（平庸） Accomplished（完成工作）
+
+（傑出） Peak Performer（表現得最好）
+
+哪個員工在職務上不是accomplished？如果不accomplished早就被上一個工作fired了。
+
+3、強調自己的積極
+
+（大家都這樣寫） Results-Driven（結果導向）
+
+（換點不一樣的） Performance-Driven（表現導向）
+
+問問招募主管吧，是不是每份履歷一開始就寫著Results-Driven，然後接著工作的職銜。給一個更積極的字眼吧，你追求的不只是結果，還有performance。
+
+4、凸顯自己的能力
+
+（了無新意） Skillful、Skilled
+
+（新鮮吸睛） Talented、Sharp、Resourceful
+
+人力資源主管覺得這兩個字最枯燥、了無新意。更有自信，換成talented。表現出觀點、見識的敏銳，用sharp。或者Resourceful，這個字很有趣，是從resource（資源）的形容詞，原來意思很有資源，一個人很有資源的時候，自然左右逢源，隨機應變的能力也就隨之而來。因此這個字就有「有策略的」、「富於機智的」。如果有人用這個字形容你，是很大的讚美。
+
+5、表現更超前的態度
+
+（沒重點）Problem-Solver（會解決問題的人）
+
+（給希望）Forward-Thinking（前瞻思維）
+
+人每天都在解決大大小小的問題，每個人都是problem solver，這樣的基本能力，不需要在履歷表裡特別聲明。Forward-Thinking是一種超前思維，在問題還沒有發生前就先預見，在別人還沒有看到機會之前就先看到機會。
+
+-----------------------------
+
+作者簡介_世界公民文化中心
+
+世界公民文化中心是一所兩年制英語學院，以「英語島學程」獨有的一對一教學和與國際商業趨勢同步的團體討論課程，幫助企業人士善用英語整合能力，達成個人和企業國際化的目標，為高科技與國際跨國公司仰賴的商務英語學習機構。
+
+商業周刊 / 世界公民文化中心 / 102.6.7上網上網
+</details>

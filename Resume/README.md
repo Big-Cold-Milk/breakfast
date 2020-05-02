@@ -9,6 +9,18 @@
 
 專案完成了，接著搞履歷。
 
+# 20200503
+
+履歷弄好也開始要投遞了，但似乎有件事情必須要先搞清楚才不會重蹈覆轍，
+
+也需要一個地方記錄自己當下心情、檢討與反思。
+
+所以根據此 <https://gitbook.tw/chapters/github/using-github-pages.html> 教學文章
+
+先建置 <https://github.com/Big-Cold-Milk/Big-Cold-Milk.github.io> 專案
+
+藉由 <https://big-cold-milk.github.io/> 先記錄下來。
+
 ### 目標：
 
 19930916 + 31 = 20240916
